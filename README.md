@@ -46,6 +46,12 @@ Det forventede GitHub Pages-link er:
 
 `https://martincgerlach.github.io/portfolio-eksamen-/`
 
+## Figma dokumentation
+
+Figma-fil med dokumentation, wireframes, mockups og prototype:
+
+`https://www.figma.com/design/eG8qBDxiFd1iXmFHM8SKRa`
+
 ## Kodestil
 
 Koden skal holdes på 1. semester-niveau:
