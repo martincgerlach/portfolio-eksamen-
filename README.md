@@ -27,3 +27,23 @@ Hver case skal kunne forklare:
 
 Aflevering: 10. juni 2026.
 Intern færdiggørelse: 9. juni 2026.
+
+## Officielle afleveringskrav
+
+WISEflow-afleveringen skal være en PDF med 2 klikbare links:
+
+1. Link til forsiden af portfolio-websitet på GitHub Pages.
+2. Link til et public GitHub repository med filerne til portfolio-websitet.
+
+Portfolio-sitet og GitHub-repository skal stemme overens. Efter
+afleveringsfristen må der ikke rettes i det repository eller GitHub Pages-site,
+som linksene peger på.
+
+GitHub Pages-linket skal testes igen, når deployment er slået til. Det forventede
+repo-link er:
+
+`https://github.com/martincgerlach/portfolio-eksamen-`
+
+Det forventede GitHub Pages-link er:
+
+`https://martincgerlach.github.io/portfolio-eksamen-/`
